@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">I'm an Electronics and Communication Engineering (ECE) student with a passion for both hardware and software. I love diving into embedded systems, microcontrollers, and circuit design, while also developing my skills in programming and software development and also I love creating immersive games using the Unity game engine. I enjoy building scalable applications, exploring machine learning, and contributing to open-source projects.</h3>
+<h3 align="centre">I'm an Electronics and Communication Engineering (ECE) student with a passion for both hardware and software. I love diving into embedded systems, microcontrollers, and circuit design, while also developing my skills in programming and software development also I love creating immersive games using the Unity game engine. I enjoy building scalable applications, exploring machine learning, and contributing to open-source projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikjl&label=Profile%20views&color=0e75b6&style=flat" alt="karthikjl" /> </p>
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthik-jl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-jl" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/karthikeyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karthikeyan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14129330/karthikeyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karthikeyan" height="30" width="40" /></a>
 <a href="https://instagram.com/karthi_jl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthi_jl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/karthik_jl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthik_jl" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kar333thic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kar333thic" height="30" width="40" /></a>
