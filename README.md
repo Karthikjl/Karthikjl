@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="centre">I'm an Electronics and Communication Engineering (ECE) student with a passion for both hardware and software. I love diving into embedded systems, microcontrollers, and circuit design, while also developing my skills in programming and software development I love creating immersive games using the Unity game engine. I enjoy building scalable applications and exploring machine learning.</h3>
+<h3 align="centre">I'm an Electronics and Communication Engineering (ECE) student with a passion for both hardware and software. I love diving into embedded systems, microcontrollers, and circuit design, while also developing my skills in programming and software development, I love creating immersive games using the Unity game engine. I enjoy building scalable applications and exploring machine learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikjl&label=Profile%20views&color=0e75b6&style=flat" alt="karthikjl" /> </p>
 
